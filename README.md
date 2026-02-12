@@ -28,11 +28,7 @@ https://prettybookmark.vercel.app/
 
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/iapheus/PrettyBookmark.git
-```
 
 Go to the project directory
 
@@ -53,6 +49,3 @@ Start the server
 ```
 
 
-## License
-
-[GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)
